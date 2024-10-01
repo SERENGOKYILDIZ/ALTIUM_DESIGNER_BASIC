@@ -1,0 +1,15 @@
+Add Component: Footprint Not Found C1206
+Add Component: Footprint Not Found C1206
+Added Component: Designator=J7(Header 2.54 1x3)
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Added Pin To Net: NetName=5V Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=U4-25
+Added Net: Name=NetJ7_1
+Add Class Member: Failed to add class member : Component C12 16 pF
+Add Class Member: Failed to add class member : Component C13 16 pF
+Added Member To Class: ClassName=UDEMY_Sheet Member=Component J7 Header 2.54 1x3
