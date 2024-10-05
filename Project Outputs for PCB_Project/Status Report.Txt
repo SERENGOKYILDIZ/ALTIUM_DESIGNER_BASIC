@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [UDEMY_PCB.PcbDoc]
+   Generated File[UDEMY_PCB.TXT]
+   Generated File[UDEMY_PCB.LDP]
+   Generated File[UDEMY_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:24:46 On 5.10.2024
